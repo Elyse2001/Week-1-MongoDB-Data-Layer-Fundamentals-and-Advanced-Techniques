@@ -1,0 +1,1010 @@
+[{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d3"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d4"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"The Alchemist\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d5"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Paulo Coelho\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d6"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Fiction\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d7"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 1988"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d8"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 12.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90d9"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90da"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 208"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90db"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"HarperOne\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90dc"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90dd"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90de"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"Atomic Habits\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90df"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"James Clear\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e0"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Self-help\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e1"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 2018"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e2"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 16.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e3"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e4"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 320"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e5"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Avery\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e6"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e7"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e8"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"1984\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90e9"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"George Orwell\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90ea"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Dystopian\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90eb"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 1949"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90ec"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 9.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90ed"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: false"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90ee"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 328"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90ef"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Secker & Warburg\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f0"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f1"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f2"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"The Pragmatic Programmer\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f3"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Andrew Hunt\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f4"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Programming\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f5"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 1999"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f6"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 39.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f7"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f8"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 352"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90f9"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Addison-Wesley\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90fa"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90fb"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90fc"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"Clean Code\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90fd"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Robert C. Martin\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90fe"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Programming\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c90ff"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 2008"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9100"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 35.50"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9101"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9102"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 464"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9103"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Prentice Hall\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9104"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9105"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9106"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"The Great Gatsby\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9107"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"F. Scott Fitzgerald\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9108"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Fiction\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9109"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 1925"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c910a"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 10.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c910b"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c910c"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 180"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c910d"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Charles Scribner's Sons\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c910e"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c910f"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9110"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"To Kill a Mockingbird\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9111"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Harper Lee\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9112"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Fiction\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9113"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 1960"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9114"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 14.50"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9115"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: false"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9116"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 281"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9117"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"J.B. Lippincott & Co.\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9118"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9119"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c911a"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"Deep Work\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c911b"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Cal Newport\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c911c"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Self-help\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c911d"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 2016"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c911e"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 19.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c911f"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9120"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 304"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9121"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Grand Central Publishing\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9122"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9123"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9124"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"Python Crash Course\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9125"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Eric Matthes\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9126"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Programming\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9127"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 2015"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9128"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 29.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9129"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c912a"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 544"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c912b"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"No Starch Press\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c912c"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c912d"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  {"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c912e"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    title: \"Brave New World\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c912f"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    author: \"Aldous Huxley\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9130"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    genre: \"Dystopian\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9131"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    published_year: 1932"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9132"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    price: 11.99"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9133"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    in_stock: true"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9134"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    pages: 268"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9135"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "    publisher: \"Chatto & Windus\""
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9136"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "  }"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad93dc679b9348451c9137"
+  },
+  "db": {
+    "books": {
+      "insertMany(": "])"
+    }
+  }
+}]
